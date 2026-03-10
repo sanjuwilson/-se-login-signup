@@ -50,5 +50,5 @@ git commit -m "Add HTML structure"
 git commit -m "Add CSS styling"
 git commit -m "Complete README"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/se-login-signup.git
+git remote add origin https://github.com/sanjuwilson/se-login-signup.git
 git push -u origin main
